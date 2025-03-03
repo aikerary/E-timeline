@@ -84,7 +84,13 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## 📝 License
+Please read our [CONTRIBUTORS](CONTRIBUTORS.md) guide for more details on how to contribute to this project.
+
+## 📝 Code of Conduct
+
+Please read our [Code of Conduct](CODE_OF_CONDUCT.md) to keep our community approachable and respectable.
+
+## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
