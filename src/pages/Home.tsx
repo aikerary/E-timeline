@@ -124,7 +124,7 @@ const Home = () => {
             <div className="lg:w-1/2 mt-8 lg:mt-0">
               <div className="relative rounded-xl overflow-hidden shadow-lg border border-border-light">
                 <img 
-                  src="/src/assets/preview.png" 
+                  src="preview.png" 
                   alt="E-learning timeline preview" 
                   className="w-full h-auto"
                   onError={(e) => {
