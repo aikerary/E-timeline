@@ -124,7 +124,7 @@ const Home = () => {
             <div className="lg:w-1/2 mt-8 lg:mt-0">
               <div className="relative rounded-xl overflow-hidden shadow-lg border border-border-light">
                 <img 
-                  src="/timeline-preview.jpg" 
+                  src="/src/assets/preview.png" 
                   alt="E-learning timeline preview" 
                   className="w-full h-auto"
                   onError={(e) => {
@@ -133,8 +133,8 @@ const Home = () => {
                 />
                 <div className="absolute inset-0 bg-gradient-to-t from-black/70 to-transparent flex items-end">
                   <div className="p-6">
-                    <p className="text-text-secondary text-lg font-medium">Discover key technological milestones</p>
-                    <p className="text-text-secondary/80 text-sm">From 1960's PLATO system to today's AI-powered platforms</p>
+                    <p className="text-white text-lg font-medium">Discover key technological milestones</p>
+                    <p className="text-white text-sm">From 1960's PLATO system to today's AI-powered platforms</p>
                   </div>
                 </div>
               </div>
