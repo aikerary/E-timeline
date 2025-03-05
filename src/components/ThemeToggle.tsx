@@ -32,7 +32,7 @@ const ThemeToggle = () => {
   return (
     <button 
       onClick={toggleTheme}
-      className="p-2 rounded-full hover:bg-bg-secondary transition-colors focus:outline-none focus:ring-2 focus:ring-primary-500"
+      className="p-2 rounded-full hover:bg-bg-secondary transition-colors focus:outline-none focus:ring-2 focus:ring-primary-500 cursor-pointer"
       aria-label={`Switch to ${isDarkMode ? 'light' : 'dark'} mode`}
     >
       {isDarkMode ? (
