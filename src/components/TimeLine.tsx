@@ -6,15 +6,15 @@ interface TimelineProps {
   mode?: "VERTICAL" | "VERTICAL_ALTERNATING" | "HORIZONTAL";
 }
 
-const Timeline = ({ items, mode = "VERTICAL" }: TimelineProps) => {
+const Timeline = ({ items, mode = "VERTICAL_ALTERNATING" }: TimelineProps) => {
   return (
     <div className="timeline-container w-full">
       <Chrono
         items={items}
         mode={mode}
         cardHeight={200}
-        scrollable={{ scrollbar: true }}
         enableOutline
+        disableToolbar 
       />
     </div>
   );

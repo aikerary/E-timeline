@@ -23,22 +23,14 @@ const TimelinePage = () => {
       </section>
 
       {/* Timeline Content Section */}
-      <section className="py-12 md:py-16">
-        <div className="container mx-auto px-4 sm:px-6 lg:px-8">
-          <div className="max-w-6xl mx-auto">
-            <div className="bg-bg-secondary p-8 rounded-xl shadow-sm border border-border-light">
               <motion.div
                 className="min-h-[600px]"
                 initial={{ opacity: 0 }}
                 animate={{ opacity: 1 }}
                 transition={{ duration: 0.8, delay: 0.2 }}
               >
-                <Timeline items={timelineData} mode="VERTICAL" />
+                <Timeline items={timelineData} />
               </motion.div>
-            </div>
-          </div>
-        </div>
-      </section>
     </div>
   );
 };

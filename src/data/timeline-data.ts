@@ -9,7 +9,7 @@ export const timelineData: TimelineData = [
     media: {
       name: "Pressey's Teaching Machine",
       source: {
-        url: "https://upload.wikimedia.org/wikipedia/commons/3/3d/Pressey%27s_automatic_teaching_machine.png",
+        url: "https://compote.slate.com/images/7bc04010-a103-4609-ab54-7683513b222d.jpg",
       },
       type: "IMAGE",
     },
@@ -23,7 +23,7 @@ export const timelineData: TimelineData = [
     media: {
       name: "PLATO IV Terminal",
       source: {
-        url: "https://upload.wikimedia.org/wikipedia/commons/4/4e/Plato_terminal.jpg",
+        url: "https://news.elearninginside.com/wp-content/uploads/2017/06/Ferster_Bitzer_plato_UT.jpg",
       },
       type: "IMAGE",
     },
@@ -37,7 +37,7 @@ export const timelineData: TimelineData = [
     media: {
       name: "ARPANET Map in 1973",
       source: {
-        url: "https://upload.wikimedia.org/wikipedia/commons/6/67/Arpanet_logical_map%2C_march_1977.png",
+        url: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOwLOCc5lHpfTAF9RVRqNQRRFhFOXpwGhenQ&s",
       },
       type: "IMAGE",
     },
@@ -49,9 +49,9 @@ export const timelineData: TimelineData = [
     cardDetailedText:
       "Michael S. Hart founds Project Gutenberg, with the goal of creating a free digital library of electronic books, facilitating access to educational material in digital format.",
     media: {
-      name: "Project Gutenberg Logo",
+      name: "Project Gutenberg Website",
       source: {
-        url: "https://upload.wikimedia.org/wikipedia/commons/6/6e/Project_Gutenberg_logo.png",
+        url: "https://www.researchgate.net/publication/283497210/figure/fig4/AS:614266608566319@1523463980577/Free-books-on-the-Project-Gutenberg-website-https-wwwgutenbergorg.png",
       },
       type: "IMAGE",
     },
@@ -65,7 +65,7 @@ export const timelineData: TimelineData = [
     media: {
       name: "LMS Diagram",
       source: {
-        url: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/LMS_Diagram.png/1200px-LMS_Diagram.png",
+        url: "https://www.researchgate.net/publication/241779074/figure/fig2/AS:298585133469701@1448199651784/Schematic-view-of-LMS-Protocol.png",
       },
       type: "IMAGE",
     },
@@ -79,7 +79,7 @@ export const timelineData: TimelineData = [
     media: {
       name: "First Website",
       source: {
-        url: "https://upload.wikimedia.org/wikipedia/commons/2/27/First_Website_ever_created.png",
+        url: "https://assets.editorial.aetnd.com/uploads/2016/08/the-worlds-first-web-sites-featured-photo.jpg",
       },
       type: "IMAGE",
     },
@@ -93,7 +93,7 @@ export const timelineData: TimelineData = [
     media: {
       name: "WebCT Logo",
       source: {
-        url: "https://upload.wikimedia.org/wikipedia/en/4/4c/WebCT_logo.png",
+        url: "https://bit4learn.com/es/wp-content/uploads/2019/09/webctimage1.jpg",
       },
       type: "IMAGE",
     },
@@ -107,7 +107,7 @@ export const timelineData: TimelineData = [
     media: {
       name: "Coursera Logo",
       source: {
-        url: "https://upload.wikimedia.org/wikipedia/commons/6/62/Coursera_logo_black.svg",
+        url: "https://diariobusinessnews.com/wp-content/uploads/2023/06/Diseno-sin-titulo-2-3.jpg",
       },
       type: "IMAGE",
     },
@@ -121,7 +121,7 @@ export const timelineData: TimelineData = [
     media: {
       name: "Student using m-Learning",
       source: {
-        url: "https://upload.wikimedia.org/wikipedia/commons/1/1b/Mobile_learning.jpg",
+        url: "https://www.cae.net/wp-content/uploads/2020/06/study-abroad-language-courses.jpg",
       },
       type: "IMAGE",
     },
@@ -135,7 +135,36 @@ export const timelineData: TimelineData = [
     media: {
       name: "Virtual Class During the Pandemic",
       source: {
-        url: "https://upload.wikimedia.org/wikipedia/commons/5/5e/Online_classroom_during_COVID-19_pandemic.jpg",
+        url: "https://content.presspage.com/uploads/1093/1920_pandemic.jpg?10000",
+      },
+      type: "IMAGE",
+    },
+  },
+
+  {
+    title: "2021",
+    cardTitle: "Rise of Hybrid Learning Models",
+    cardSubtitle: "Combining traditional and online learning approaches.",
+    cardDetailedText:
+      "Educational institutions and organizations increasingly adopt hybrid learning models, combining traditional face-to-face instruction with online learning methods to provide flexible and effective educational experiences.",
+    media: {
+      name: "Hybrid Learning Model",
+      source: {
+        url: "https://th-i.thgim.com/public/incoming/8lt07p/article69126571.ece/alternates/FREE_1200/hybrid.jpg",
+      },
+      type: "IMAGE",
+    },
+  },
+  {
+    title: "2022",
+    cardTitle: "Integration of Artificial Intelligence in E-Learning",
+    cardSubtitle: "AI enhances personalized learning experiences.",
+    cardDetailedText:
+      "Artificial Intelligence (AI) technologies are increasingly integrated into e-learning platforms to provide personalized learning experiences, adaptive content, and intelligent tutoring systems.",
+    media: {
+      name: "AI in E-Learning",
+      source: {
+        url: "https://av-eks-blogoptimized.s3.amazonaws.com/27607article-1-featured-2100x1200.png",
       },
       type: "IMAGE",
     },
