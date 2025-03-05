@@ -115,12 +115,6 @@ const Footer = () => {
             © {currentYear} E-Timeline. All rights reserved.
           </p>
           <div className="flex space-x-6 text-sm">
-            <a href="/privacy" className="text-text-tertiary hover:text-primary-600 transition-colors">
-              Privacy Policy
-            </a>
-            <a href="/terms" className="text-text-tertiary hover:text-primary-600 transition-colors">
-              Terms of Service
-            </a>
             <a href="/about" className="text-text-tertiary hover:text-primary-600 transition-colors">
               About
             </a>
